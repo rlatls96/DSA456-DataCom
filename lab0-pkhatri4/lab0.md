@@ -8,7 +8,7 @@ Here is a sentence with the  quadratic formula $x = {-b \pm \sqrt{b^2-4ac} \over
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
-Hypotenus of a right angle triangle: $c = sqrt(a^2 + b^2)$
+Hypotenus of a right angle triangle: $c = \sqrt(a^2 + b^2)$
 
 Geometric series: sum from $i=0 to n (ar^i)$
 
